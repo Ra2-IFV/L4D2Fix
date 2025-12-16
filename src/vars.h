@@ -20,6 +20,7 @@ std::string sLogFile = sFixName + ".log";
 
 // Strings
 const wchar_t* pMsgboxTitle = L"L4D2Fix - by KurikoMoe";
+const wchar_t* cMsgboxTitle = L"L4D2Fix - by KurikoMoe";
 
 // Logger
 std::shared_ptr<spdlog::logger> logger;
